@@ -1,0 +1,13 @@
+.div {
+  display: flex;
+  justify-content: left;
+  margin-bottom: 32px;
+  width: 800px;
+}
+.separator {
+  width: 800px;
+  height: 2px;
+  border: none;
+  flex-shrink: 0;
+  background: #3D3D3D;
+}
